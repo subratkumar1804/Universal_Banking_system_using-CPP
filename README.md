@@ -13,7 +13,7 @@ In this project we will be able to retain the data using file handling concept e
 download link of this application on windows:https://bloodshed-dev-c.en.softonic.com/
 
 --------------------------------------------------
-##Purpose of this projects:
+##Purpose of this project:
 
 The main purpose of this project is to help beginners understand about file handling concept in C++.
 To help them to learn about creating,reading and writing to the files with help of different functions.
