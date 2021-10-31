@@ -1,4 +1,4 @@
-# Universal_Banking_system_using-CP
+# Universal_Banking_system_using-CPP
 This project is based on the concept of file handling and OOPs concept in C++. Here we create account, modify, deposit, withdraw, get users' details and get all the registered users list.
 
 This project Universal Banking System is based on the concept of file handling in C++ and OOPs concept in C++.
